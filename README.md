@@ -1,2 +1,2 @@
 # tindog
-tinder for dogs
+tinder for dogs built using html, css and bootstrap. 
